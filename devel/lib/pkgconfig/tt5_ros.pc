@@ -1,0 +1,8 @@
+prefix=/home/jianlan/catkin_ws/devel
+
+Name: tt5_ros
+Description: Description of tt5_ros
+Version: 0.0.0
+Cflags: -I/home/jianlan/catkin_ws/devel/include
+Libs: -L/home/jianlan/catkin_ws/devel/lib 
+Requires: message_runtime roscpp rospy std_msgs geometry_msgs

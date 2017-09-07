@@ -1,0 +1,8 @@
+prefix=/home/brian/Spherical-Tensegrity/ROS/install
+
+Name: tt5_ros
+Description: Description of tt5_ros
+Version: 0.0.0
+Cflags: -I/home/brian/Spherical-Tensegrity/ROS/install/include
+Libs: -L/home/brian/Spherical-Tensegrity/ROS/install/lib 
+Requires: message_runtime roscpp rospy std_msgs geometry_msgs

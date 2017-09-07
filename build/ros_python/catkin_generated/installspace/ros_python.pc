@@ -1,0 +1,8 @@
+prefix=/home/jianlan/catkin_ws/install
+
+Name: ros_python
+Description: Description of ros_python
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jianlan/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+set(tt5_ros_MESSAGE_FILES "/home/jianlan/catkin_ws/src/tt5_ros/msg/MotorCommands.msg;/home/jianlan/catkin_ws/src/tt5_ros/msg/SixRodMotorCommands.msg;/home/jianlan/catkin_ws/src/tt5_ros/msg/SixRodOrientation.msg;/home/jianlan/catkin_ws/src/tt5_ros/msg/SixRodAcceleration.msg;/home/jianlan/catkin_ws/src/tt5_ros/msg/Encoders.msg;/home/jianlan/catkin_ws/src/tt5_ros/msg/SixRodEncoders.msg")
+set(tt5_ros_SERVICE_FILES "/home/jianlan/catkin_ws/src/tt5_ros/srv/AddTwoInts.srv")

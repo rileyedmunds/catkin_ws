@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 0
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_brian_ideapad_z570__38025: 'http://brian-Ideapad-Z570:38025/'}
+rosversion: '1.12.7
+
+  '
+run_id: bd7ad876-5c65-11e7-a1dd-74e50b58213a
